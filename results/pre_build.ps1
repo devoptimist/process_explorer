@@ -1,0 +1,5 @@
+$pkg_origin="devoptimist"
+$pkg_name="ProcessExplorer"
+$pkg_version="16.22"
+$pkg_release="20190522222752"
+$pkg_ident="devoptimist/ProcessExplorer/16.22/20190522222752"
